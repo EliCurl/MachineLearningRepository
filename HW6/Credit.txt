@@ -1,0 +1,2 @@
+Credit Score Classification Dataset
+- https://www.kaggle.com/datasets/sujithmandala/credit-score-classification-dataset
