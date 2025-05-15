@@ -22,7 +22,7 @@ OOB Score BaggingClassifier:
 
 
 ### HW 8
-This project was to show off a simple ANN.
+This project was to show off a simple ANN. This tries to predict house prices based off of many features such as, bedrooms, bathrooms, sqaure feet of living space, etc. This project uses 3 hidden layers with relu as an activation funtion.
 
 ### HW 4
 This project is using SVC to classify different types of glass based on the elements in the glass
