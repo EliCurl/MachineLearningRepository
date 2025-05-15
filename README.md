@@ -3,7 +3,9 @@
 ### HW 6
 This project was to test the dataset of peoples features(Income, Home Ownership, Income, etc.) to there credit scores.
 This was done via checking the accuracy of BaggingClassifier and RandomForestClassifier
+
 Bar graph:
+
 <img width="458" alt="HW6BarGraph" src="https://github.com/user-attachments/assets/370b4a90-cb64-46ef-9d03-75f3a06206d7" />
 
 CM:
