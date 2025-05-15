@@ -22,7 +22,20 @@ OOB Score BaggingClassifier:
 ### HW 8
 This project was to show off a simple ANN.
 
-### HW
+### HW 4
+This project is using SVC to classify different types of glass based on the elements in the glass
+Type of glass (class labels):
+1: building_windows_float_processed
+2: building_windows_non_float_processed
+3: vehicle_windows_float_processed
+4: vehicle_windows_non_float_processed (not present)
+5: containers
+6: tableware
+7: headlamps
+We also use Lasso for Gridsearch to find good alpha values
 
+CM:
+
+<img width="415" alt="HW4CM" src="https://github.com/user-attachments/assets/392e99f2-0ab2-46f7-9bff-1b12352a84a9" />
 
 ### HW
