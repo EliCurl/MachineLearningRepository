@@ -46,4 +46,11 @@ CM:
 
 <img width="415" alt="HW4CM" src="https://github.com/user-attachments/assets/392e99f2-0ab2-46f7-9bff-1b12352a84a9" />
 
-### HW
+### HW 7
+
+This project gets info about countries and groups them based off of those results. It also gives a elbow graph that is used when making a decision about the grouping of the countries, in this case 4 groups.
+
+Elbow graph:
+
+<img width="431" alt="HW7ElbowGraph" src="https://github.com/user-attachments/assets/cf23acfb-afe2-42d8-9731-6df197ee6c88" />
+
